@@ -3,10 +3,10 @@
 is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
 ##############################
 bot_token: "Your bot token"
-owner_id: 123456
-owner_username: "OWNER USERNAME"
-database_url: "postgres://username:password@host:5432/database_name"
-message_dump: "CHAT ID"
+owner_id: 1669178360
+owner_username: "Timesisnotwaiting"
+database_url: ""
+message_dump: "-1001395410636"
 load: []
 no_load: []
 strict_antispam: False
