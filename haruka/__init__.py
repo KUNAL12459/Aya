@@ -33,10 +33,6 @@ except Exception as eee:
     )
     quit(1)
 
-if not CONFIG['is_example_config_or_not'] == "not_sample_anymore":
-    print("Please, use your eyes and stop being blinded.")
-    quit(1)
-
 TOKEN = CONFIG['bot_token']
 
 try:
