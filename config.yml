@@ -1,0 +1,22 @@
+##############################
+# Please edit this line to "not_sample_anymore" to make the bot run
+is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
+##############################
+bot_token: "5087493887:AAFTunel4Vr9-F1nb2vfueEoivJQJ2NZbzw"
+owner_id: 1669178360
+owner_username: "Timesisnotwaiting"
+database_url: "postgresql://owyfkqsz:W-V1yr8bz8xi4ZVQc_dBO8EJaz-mU-iR@hansken.db.elephantsql.com/owyfkqsz"
+message_dump: "-1001395410636"
+load: []
+no_load: []
+strict_antispam: False
+workers: 4
+allow_excl: False
+deepfry_token: None
+del_cmds: False
+sw_api: '89G8dRwpvpYZVxr~cdj8RYvDHdsIUFOjNS9Os_X6PmHmZAqepQZp1VV3rNXpCGC3'
+
+# Permission
+sudo_users: []
+support_users: []
+whitelist_users: []
